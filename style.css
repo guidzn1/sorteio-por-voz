@@ -61,3 +61,11 @@ h3{
 .box:hover {
     transform: scale(1.1); /* Aumenta o tamanho do box em 10% */
 }
+.btn-jogar{
+    color: var(--cor-primaria);
+    margin: 4em;
+    padding: 8px;
+    border-radius: 15px;
+    border: 0;
+    background: var(--cor-botao);
+}
